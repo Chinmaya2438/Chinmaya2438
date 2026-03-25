@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/Chinmaya2438?label=Followers&style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Chinmaya2438&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
-  <a href="https://e-commerce-frontend-self-eight.vercel.app/">
+  <a href="https://chinmaya-panda-portfolio-five.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
